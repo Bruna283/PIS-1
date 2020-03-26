@@ -8,5 +8,6 @@ namespace ConsoleApp20
 {
     class Class1
     {
+      //koemntar
     }
 }
